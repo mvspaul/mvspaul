@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Image Processing and Data Sciene Projects
 - 📫 How to reach me testusegenai@gmail.com
 
+Languages and Tools
+gcp git pandas python scikit_learn seaborn tensorflow
 <!---
 mvspaul/mvspaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
